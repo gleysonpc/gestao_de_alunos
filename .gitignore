@@ -1,0 +1,10 @@
+Win32
+__history/
+__recovery/
+*.~*
+*.exe
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
